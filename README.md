@@ -12,4 +12,4 @@ Skjóta: LMB
 
 
 ### Leikur
-<a href="http://www.mediafire.com/file/vs88koc7n9pesf7/Verkefni3_setup.exe/file">Download</a>
+<a href="http://www.mediafire.com/file/jsabbk30fwvidbu/Verkefni3_setup.exe/file">Download</a>
