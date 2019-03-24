@@ -13,4 +13,4 @@ Skjóta: LMB
 
 ### Leikur
 [go](https://www.mediafire.com/file/5j8k92vyrdq7ir7/Verkefni3_setup.exe/file){:target="_blank"}
-<a href="https://www.mediafire.com/file/5j8k92vyrdq7ir7/Verkefni3_setup.exe/file" target="_blank">Download</a>
+<a href="https://www.mediafire.com/file/5j8k92vyrdq7ir7/Verkefni3_setup.exe/file">Download</a>
