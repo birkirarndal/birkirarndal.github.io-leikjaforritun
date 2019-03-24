@@ -13,3 +13,6 @@ Skjóta: LMB
 
 ### Leikur
 <a href="http://www.mediafire.com/file/jsabbk30fwvidbu/Verkefni3_setup.exe/file">Download</a>
+
+### Gameplay
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xqEslScROXk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
